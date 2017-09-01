@@ -5,6 +5,8 @@
 VIPSystem is an automated donations store system that works with CS:GO.
 Payments are handled securely through PayPal and actions are automatically applied on the server when payment is received.
 
+###Contact me on steam to purchase : http://steamcommunity.com/profiles/76561198192893746
+
 ## VIPSystem Features!
 
   - Easy to install and use for players and system owners.
