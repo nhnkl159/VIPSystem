@@ -48,3 +48,5 @@ Payments are handled securely through PayPal and actions are automatically appli
 - You are not allowed to publish or share any code of the system.
 - You are not allowed to change the credits at the bottom of the site.
 - I'm not responsible if your system got hacked by making any changes to the system.
+- Refunds are not allowed.
+- I'm allowed to change the rules any time.
